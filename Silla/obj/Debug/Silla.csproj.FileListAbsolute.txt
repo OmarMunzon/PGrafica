@@ -1,0 +1,12 @@
+C:\Users\Omar\Desktop\Silla\Silla\bin\Debug\Silla.exe.config
+C:\Users\Omar\Desktop\Silla\Silla\bin\Debug\Silla.exe
+C:\Users\Omar\Desktop\Silla\Silla\bin\Debug\Silla.pdb
+C:\Users\Omar\Desktop\Silla\Silla\obj\Debug\Silla.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Silla\Silla\obj\Debug\Silla.exe
+C:\Users\Omar\Desktop\Silla\Silla\obj\Debug\Silla.pdb
+C:\Users\Omar\Desktop\Silla\Silla\bin\Debug\OpenTK.dll
+C:\Users\Omar\Desktop\Silla\Silla\bin\Debug\OpenTK.pdb
+C:\Users\Omar\Desktop\Silla\Silla\bin\Debug\OpenTK.xml
+C:\Users\Omar\Desktop\ProgramacionGrafica\Silla\Silla\bin\Debug\Silla.exe.config
+C:\Users\Omar\Desktop\ProgramacionGrafica\Silla\Silla\obj\Debug\Silla.exe
+C:\Users\Omar\Desktop\ProgramacionGrafica\Silla\Silla\obj\Debug\Silla.pdb
