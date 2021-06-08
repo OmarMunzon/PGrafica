@@ -10,9 +10,9 @@ namespace Silla
     {
         static void Main(string[] args)
         {
-            using (Window ventana = new Window(1000, 500, "Silla"))
+            using (Window ventana = new Window(700, 500, "Silla"))
             {
-                ventana.Run();
+                ventana.Run(1/60);
             };
         }
     }
